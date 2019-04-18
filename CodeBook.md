@@ -51,7 +51,7 @@ The data used in this course assignment is from accelerometers from the Samsung 
 * STANDING
 * LAYING
 
-##The run_analysis.R script does the following
+## The run_analysis.R script does the following
 
 1) Merges the training and test set in 1 data set. <br/>
 * use rbind() to merge each table in train and test. ( combine each x, y, and sub to create x_all,y_all, and sub_all)
